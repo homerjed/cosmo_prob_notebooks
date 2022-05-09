@@ -16,7 +16,7 @@ Course Website: https://usm.uni-muenchen.de/people/oliverf/teaching.htm
 USE:
 `git clone` the repo locally or:
 
-Login to the [Physik cluster](workshop.physik.uni-muenchen.de/) using your LMU-Physik accounts and begin a server _without_ a GPU, download/upload the notebook or use `git clone` as above.
+Login to the [Physik cluster](https://workshop.physik.uni-muenchen.de/hub/home) using your LMU-Physik accounts and begin a server _without_ a GPU, download/upload the notebook or use `git clone` as above.
 
 Notebooks:
 * 1. Introduction to `numpy` and `matplotlib`.
